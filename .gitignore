@@ -2,5 +2,5 @@
 .vscode
 .gitattributes
 launch.json
-src/test-job/
+/src/test-job/
 go.*
