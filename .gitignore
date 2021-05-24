@@ -1,6 +1,6 @@
 .idea/
 .vscode/
 test-job/
+build/
 .gitattributes
 launch.json
-go.*
