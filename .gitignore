@@ -1,0 +1,6 @@
+.idea/
+.vscode
+.gitattributes
+launch.json
+src/test-job/
+go.*
