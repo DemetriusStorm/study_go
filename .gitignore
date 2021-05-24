@@ -1,6 +1,6 @@
 .idea/
 .vscode/
-/src/test-job/
+src/test*
 .gitattributes
 launch.json
 go.*
