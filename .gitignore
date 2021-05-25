@@ -4,3 +4,5 @@ test-job/
 build/
 .gitattributes
 launch.json
+*.mod
+*.sum
